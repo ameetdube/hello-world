@@ -1,2 +1,3 @@
 # hello-world
-just another repository just to test Git-Hub
+just another repository just to test Git-Hub.
+Also testing Git-Hub branch functionality...
